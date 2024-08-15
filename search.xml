@@ -1,6 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>Hexo Pro后台管理界面</title>
+    <url>/2024/08/15/Hexo-Pro%E5%90%8E%E5%8F%B0%E7%AE%A1%E7%90%86%E7%95%8C%E9%9D%A2/</url>
+    <content><![CDATA[<h1>安装Hexo pro</h1>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">npm install --save hexo-pro</span><br><span class="line">hexo server -d</span><br><span class="line">open http://localhost:4000/pro/</span><br></pre></td></tr></table></figure>
+<h1>配置登陆账户与密码</h1>
+<p>需要在hexo的_config.yml中增加以下配置来使用账户密码登陆后台，不配置后台会直接登陆。 配置后使用jwt来保护后台访问的接口</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">hexo_pro:</span><br><span class="line">  username: admim</span><br><span class="line">  password: 123</span><br><span class="line">  avatar: https: image for your own avata</span><br><span class="line">  secret: xxx // jwt secret key</span><br></pre></td></tr></table></figure>]]></content>
+      <categories>
+        <category>Hexo</category>
+        <category>blog</category>
+        <category>教程</category>
+      </categories>
+      <tags>
+        <tag>Hexo</tag>
+        <tag>教程</tag>
+        <tag>控制台</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Hello World</title>
     <url>/2024/08/13/hello-world/</url>
     <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
