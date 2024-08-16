@@ -1,25 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>Hexo Pro后台管理界面</title>
-    <url>/posts/e87fca32.html</url>
-    <content><![CDATA[<h1>安装Hexo pro</h1>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">npm install --save hexo-pro</span><br><span class="line">hexo server -d</span><br><span class="line">open http://localhost:4000/pro/</span><br></pre></td></tr></table></figure>
-<h1>配置登陆账户与密码</h1>
-<p>需要在hexo的_config.yml中增加以下配置来使用账户密码登陆后台，不配置后台会直接登陆。 配置后使用jwt来保护后台访问的接口</p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">hexo_pro:</span><br><span class="line">  username: admim</span><br><span class="line">  password: 123</span><br><span class="line">  avatar: https: image for your own avata</span><br><span class="line">  secret: xxx // jwt secret key</span><br></pre></td></tr></table></figure>]]></content>
-      <categories>
-        <category>Hexo</category>
-        <category>blog</category>
-        <category>教程</category>
-      </categories>
-      <tags>
-        <tag>Hexo</tag>
-        <tag>教程</tag>
-        <tag>控制台</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>Hello World</title>
     <url>/posts/4a17b156.html</url>
     <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
@@ -39,6 +20,52 @@
 <figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
 <p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
 ]]></content>
+  </entry>
+  <entry>
+    <title>note</title>
+    <url>/posts/cfbdfa14.html</url>
+    <content><![CDATA[<div class="note simple"><p>默认 提示块标签</p>
+</div>
+<div class="note default simple"><p>default 提示块标签</p>
+</div>
+<div class="note primary simple"><p>primary 提示块标签</p>
+</div>
+<div class="note success simple"><p>success 提示块标签</p>
+</div>
+<div class="note info simple"><p>info 提示块标签</p>
+</div>
+<div class="note warning simple"><p>warning 提示块标签</p>
+</div>
+<div class="note danger simple"><p>danger 提示块标签</p>
+</div>
+<div class="note modern"><p>默认 提示块标签</p>
+</div>
+<div class="note default modern"><p>default 提示块标签</p>
+</div>
+<div class="note primary modern"><p>primary 提示块标签</p>
+</div>
+<div class="note success modern"><p>success 提示块标签</p>
+</div>
+<div class="note info modern"><p>info 提示块标签</p>
+</div>
+<div class="note warning modern"><p>warning 提示块标签</p>
+</div>
+<div class="note danger modern"><p>danger 提示块标签</p>
+</div>
+<div class="note flat"><p>默认 提示块标签</p>
+</div>
+<div class="note default flat"><p>default 提示块标签</p>
+</div>
+<div class="note primary flat"><p>primary 提示块标签</p>
+</div>
+<div class="note success flat"><p>success 提示块标签</p>
+</div>
+<div class="note info flat"><p>info 提示块标签</p>
+</div>
+<div class="note warning flat"><p>warning 提示块标签</p>
+</div>
+<div class="note danger flat"><p>danger 提示块标签</p>
+</div>]]></content>
   </entry>
   <entry>
     <title>hexo+github+zeabur个人blog</title>
@@ -89,49 +116,22 @@
       </tags>
   </entry>
   <entry>
-    <title>note</title>
-    <url>/posts/cfbdfa14.html</url>
-    <content><![CDATA[<div class="note simple"><p>默认 提示块标签</p>
-</div>
-<div class="note default simple"><p>default 提示块标签</p>
-</div>
-<div class="note primary simple"><p>primary 提示块标签</p>
-</div>
-<div class="note success simple"><p>success 提示块标签</p>
-</div>
-<div class="note info simple"><p>info 提示块标签</p>
-</div>
-<div class="note warning simple"><p>warning 提示块标签</p>
-</div>
-<div class="note danger simple"><p>danger 提示块标签</p>
-</div>
-<div class="note modern"><p>默认 提示块标签</p>
-</div>
-<div class="note default modern"><p>default 提示块标签</p>
-</div>
-<div class="note primary modern"><p>primary 提示块标签</p>
-</div>
-<div class="note success modern"><p>success 提示块标签</p>
-</div>
-<div class="note info modern"><p>info 提示块标签</p>
-</div>
-<div class="note warning modern"><p>warning 提示块标签</p>
-</div>
-<div class="note danger modern"><p>danger 提示块标签</p>
-</div>
-<div class="note flat"><p>默认 提示块标签</p>
-</div>
-<div class="note default flat"><p>default 提示块标签</p>
-</div>
-<div class="note primary flat"><p>primary 提示块标签</p>
-</div>
-<div class="note success flat"><p>success 提示块标签</p>
-</div>
-<div class="note info flat"><p>info 提示块标签</p>
-</div>
-<div class="note warning flat"><p>warning 提示块标签</p>
-</div>
-<div class="note danger flat"><p>danger 提示块标签</p>
-</div>]]></content>
+    <title>Hexo Pro后台管理界面</title>
+    <url>/posts/e87fca32.html</url>
+    <content><![CDATA[<h1>安装Hexo pro</h1>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">npm install --save hexo-pro</span><br><span class="line">hexo server -d</span><br><span class="line">open http://localhost:4000/pro/</span><br></pre></td></tr></table></figure>
+<h1>配置登陆账户与密码</h1>
+<p>需要在hexo的_config.yml中增加以下配置来使用账户密码登陆后台，不配置后台会直接登陆。 配置后使用jwt来保护后台访问的接口</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">hexo_pro:</span><br><span class="line">  username: admim</span><br><span class="line">  password: 123</span><br><span class="line">  avatar: https: image for your own avata</span><br><span class="line">  secret: xxx // jwt secret key</span><br></pre></td></tr></table></figure>]]></content>
+      <categories>
+        <category>Hexo</category>
+        <category>blog</category>
+        <category>教程</category>
+      </categories>
+      <tags>
+        <tag>Hexo</tag>
+        <tag>教程</tag>
+        <tag>控制台</tag>
+      </tags>
   </entry>
 </search>
