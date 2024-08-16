@@ -2,7 +2,7 @@
 <search>
   <entry>
     <title>Hexo Pro后台管理界面</title>
-    <url>/2024/08/15/Hexo-Pro%E5%90%8E%E5%8F%B0%E7%AE%A1%E7%90%86%E7%95%8C%E9%9D%A2/</url>
+    <url>/posts/e87fca32.html</url>
     <content><![CDATA[<h1>安装Hexo pro</h1>
 <figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">npm install --save hexo-pro</span><br><span class="line">hexo server -d</span><br><span class="line">open http://localhost:4000/pro/</span><br></pre></td></tr></table></figure>
 <h1>配置登陆账户与密码</h1>
@@ -21,7 +21,7 @@
   </entry>
   <entry>
     <title>Hello World</title>
-    <url>/2024/08/15/hello-world/</url>
+    <url>/posts/4a17b156.html</url>
     <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
 <h2 id="Quick-Start">Quick Start</h2>
 <h3 id="Create-a-new-page">Create a new page</h3>
@@ -41,54 +41,8 @@
 ]]></content>
   </entry>
   <entry>
-    <title>note</title>
-    <url>/2024/08/15/note/</url>
-    <content><![CDATA[<div class="note simple"><p>默认 提示块标签</p>
-</div>
-<div class="note default simple"><p>default 提示块标签</p>
-</div>
-<div class="note primary simple"><p>primary 提示块标签</p>
-</div>
-<div class="note success simple"><p>success 提示块标签</p>
-</div>
-<div class="note info simple"><p>info 提示块标签</p>
-</div>
-<div class="note warning simple"><p>warning 提示块标签</p>
-</div>
-<div class="note danger simple"><p>danger 提示块标签</p>
-</div>
-<div class="note modern"><p>默认 提示块标签</p>
-</div>
-<div class="note default modern"><p>default 提示块标签</p>
-</div>
-<div class="note primary modern"><p>primary 提示块标签</p>
-</div>
-<div class="note success modern"><p>success 提示块标签</p>
-</div>
-<div class="note info modern"><p>info 提示块标签</p>
-</div>
-<div class="note warning modern"><p>warning 提示块标签</p>
-</div>
-<div class="note danger modern"><p>danger 提示块标签</p>
-</div>
-<div class="note flat"><p>默认 提示块标签</p>
-</div>
-<div class="note default flat"><p>default 提示块标签</p>
-</div>
-<div class="note primary flat"><p>primary 提示块标签</p>
-</div>
-<div class="note success flat"><p>success 提示块标签</p>
-</div>
-<div class="note info flat"><p>info 提示块标签</p>
-</div>
-<div class="note warning flat"><p>warning 提示块标签</p>
-</div>
-<div class="note danger flat"><p>danger 提示块标签</p>
-</div>]]></content>
-  </entry>
-  <entry>
     <title>hexo+github+zeabur个人blog</title>
-    <url>/2024/08/14/hexo+github+zeabur%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</url>
+    <url>/posts/fad2ff80.html</url>
     <content><![CDATA[<p>可以使用hexo+github pages直接搭建，这里使用zeabur设置域名访问</p>
 <p>安装git、node.js(这里不过多赘述)</p>
 <p>Hexo文档以及主题  <a href="https://hexo.io/zh-cn/">https://hexo.io/zh-cn/</a>  注意官方文档很久没更新了</p>
@@ -133,5 +87,51 @@
         <tag>Hexo</tag>
         <tag>教程</tag>
       </tags>
+  </entry>
+  <entry>
+    <title>note</title>
+    <url>/posts/cfbdfa14.html</url>
+    <content><![CDATA[<div class="note simple"><p>默认 提示块标签</p>
+</div>
+<div class="note default simple"><p>default 提示块标签</p>
+</div>
+<div class="note primary simple"><p>primary 提示块标签</p>
+</div>
+<div class="note success simple"><p>success 提示块标签</p>
+</div>
+<div class="note info simple"><p>info 提示块标签</p>
+</div>
+<div class="note warning simple"><p>warning 提示块标签</p>
+</div>
+<div class="note danger simple"><p>danger 提示块标签</p>
+</div>
+<div class="note modern"><p>默认 提示块标签</p>
+</div>
+<div class="note default modern"><p>default 提示块标签</p>
+</div>
+<div class="note primary modern"><p>primary 提示块标签</p>
+</div>
+<div class="note success modern"><p>success 提示块标签</p>
+</div>
+<div class="note info modern"><p>info 提示块标签</p>
+</div>
+<div class="note warning modern"><p>warning 提示块标签</p>
+</div>
+<div class="note danger modern"><p>danger 提示块标签</p>
+</div>
+<div class="note flat"><p>默认 提示块标签</p>
+</div>
+<div class="note default flat"><p>default 提示块标签</p>
+</div>
+<div class="note primary flat"><p>primary 提示块标签</p>
+</div>
+<div class="note success flat"><p>success 提示块标签</p>
+</div>
+<div class="note info flat"><p>info 提示块标签</p>
+</div>
+<div class="note warning flat"><p>warning 提示块标签</p>
+</div>
+<div class="note danger flat"><p>danger 提示块标签</p>
+</div>]]></content>
   </entry>
 </search>
