@@ -85,36 +85,36 @@
 
   <url>
     <loc>https://caokaier.zeabur.app/</loc>
-    <lastmod>2024-08-16</lastmod>
+    <lastmod>2024-08-25</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 
   
   <url>
+    <loc>https://caokaier.zeabur.app/tags/note/</loc>
+    <lastmod>2024-08-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://caokaier.zeabur.app/tags/Hexo/</loc>
-    <lastmod>2024-08-16</lastmod>
+    <lastmod>2024-08-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://caokaier.zeabur.app/tags/%E6%95%99%E7%A8%8B/</loc>
-    <lastmod>2024-08-16</lastmod>
+    <lastmod>2024-08-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://caokaier.zeabur.app/tags/%E6%8E%A7%E5%88%B6%E5%8F%B0/</loc>
-    <lastmod>2024-08-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://caokaier.zeabur.app/tags/note/</loc>
-    <lastmod>2024-08-16</lastmod>
+    <lastmod>2024-08-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -123,21 +123,21 @@
   
   <url>
     <loc>https://caokaier.zeabur.app/categories/Hexo/</loc>
-    <lastmod>2024-08-16</lastmod>
+    <lastmod>2024-08-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://caokaier.zeabur.app/categories/Hexo/blog/</loc>
-    <lastmod>2024-08-16</lastmod>
+    <lastmod>2024-08-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://caokaier.zeabur.app/categories/Hexo/blog/%E6%95%99%E7%A8%8B/</loc>
-    <lastmod>2024-08-16</lastmod>
+    <lastmod>2024-08-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
